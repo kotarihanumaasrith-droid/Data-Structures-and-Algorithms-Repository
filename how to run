@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "DSA implementations in Python"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/dsa-python.git
+git push -u origin main
